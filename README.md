@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Alamino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricalamino&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricalamino&hide=PHP,Liquid&layout=compact&theme=dark)](https://github.com/ricalamino/github-readme-stats)
+
+
