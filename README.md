@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Svelte and NodeJS apps
+- 🤔 I’m looking for help with tests in React Native
+- ⚡ Fun fact: I am an Engineer. But I am also a Math and Physics teacher.
+- 📫 How to reach me: ricardo@alami.no
+
 <!--
 **ricalamino/ricalamino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
