@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Svelte and NodeJS apps
-- 🤔 I’m looking for help with tests in React Native
-- ⚡ Fun fact: I am an Engineer. But I am also a Math and Physics teacher.
+- 🔭 I’m currently working on React, Svelte and NodeJS apps
+- ⚡ Fun fact: I am a Computer Engineer. But I am also a Math and Physics teacher.
 - 📫 How to reach me: ricardo@alami.no
 
 <!--
