@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on React, Svelte and NodeJS apps
 - ⚡ Fun fact: I am a Computer Engineer. But I am also a Math and Physics teacher.
+-    Bitcoin  enthusiast!
 - 📫 How to reach me: ricardo@alami.no
+- ⚡ricalamino@getalby.com⚡
 
 <!--
 **ricalamino/ricalamino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
