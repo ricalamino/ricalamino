@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React, Svelte and NodeJS apps
+- 🔭 I’m currently working on Automation, AI tools and opensource apps. (Lectio)
 - ⚡ Fun fact: I am a Computer Engineer. But I am also a Math and Physics teacher.
 - 📫 How to reach me: ricardo@alami.no
 - ⚡₿ Bitcoin enthusiast! ⚡ala@primal.net⚡
