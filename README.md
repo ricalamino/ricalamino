@@ -1,25 +1,21 @@
-### Hi there 👋
+### Ricardo Alamino
 
-- 🔭 I’m currently working on Automation, AI tools and opensource apps. (Lectio)
-- ⚡ Fun fact: I am a Computer Engineer. But I am also a Math and Physics teacher.
-- 📫 How to reach me: ricardo@alami.no
-- ⚡₿ Bitcoin enthusiast! ⚡ala@primal.net⚡
+Computer Engineer (POLI-USP) building data systems, automations, and AI tools — independently, from São Paulo.
 
-<!--
-**ricalamino/ricalamino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently**
+- 🏗️ Building [Bookalyze](https://bookalyze.com.br) — BI platform for short-term rental operators (revenue, occupancy, and reservation analytics integrated with Stays and Hostaway)
+- 🛠️ Available for freelance work: full-stack development, data engineering, and AI/automation
+- 📫 Reach me: ricardo@alami.no · [alami.no](https://alami.no)
 
-Here are some ideas to get you started:
+**Stack**
+TypeScript · Next.js · Node.js · PostgreSQL · Python · Metabase · SQL analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background**
+Former minority partner at [Gorila](https://gorila.com.br) (Brazilian investment fintech, 2017–2024). Graduate work in neuroscience (PUCRS) and physics teaching. Trained psychoanalyst.
 
+---
 
-
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ricalamino&show_icons=true&hide_border=true&hide=issues&count_private=true&theme=default" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricalamino&layout=compact&hide_border=true&langs_count=6&theme=default" height="140" />
+</p>
