@@ -1,19 +1,32 @@
-### Ricardo Alamino
+# Ricardo Alamino
 
-Computer Engineer (POLI-USP) building data systems, automations, and AI tools — independently, from São Paulo.
+Computer Engineer (POLI-USP) building data systems, automations, and LLM-powered
+tools — independently, from São Paulo.
 
-**Currently**
-- 🏗️ Building [Bookalyze](https://bookalyze.it) — BI platform for short-term rental operators (revenue, occupancy, and reservation analytics integrated with Stays and Hostaway)
-- 🛠️ Available for freelance work: full-stack development, data engineering, and AI/automation
-- 📫 Reach me: ricardo@alami.no · [alami.no](https://alami.no)
+## Currently
 
-**Skills**
+* 🏗️ **[Bookalyze](https://bookalyze.it/)** — BI platform for short-term rental
+  operators (revenue, occupancy, and reservation analytics, integrated with
+  Stays and Hostaway)
+* 🤖 **[verdict-panel](#)** — multi-agent adversarial panel that stress-tests
+  product hypotheses and returns a GO / NO-GO / PIVOT verdict
+* 🧠 **[lectio](#)** — capture-first personal knowledge base on Postgres + pgvector
+* 📫 [ricardo@alami.no](mailto:ricardo@alami.no) · [alami.no](https://alami.no/) · [CV](https://alami.no/cv)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![LLM Usage](https://img.shields.io/badge/LLM_Usage-412991?style=flat&logo=openai&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white)
+## Stack
 
-**Background**
-Former minority partner at [Gorila](https://gorila.com.br) (Brazilian investment fintech, 2017–2024). Graduate work in neuroscience (PUCRS) and physics teaching. Trained psychoanalyst.
+**Core** TypeScript · React · Next.js · Node.js · PostgreSQL
+**AI** Anthropic API · multi-agent orchestration · evals · RAG · MCP
+**Tooling** Claude Code · Cursor · Docker · Python
+
+## Background
+
+Co-founder and early engineer at **[Gorila](https://gorila.com.br/)** (Brazilian
+investment fintech, 2017–2024) — React Native architecture, frontend design
+system, and support operations at scale.
+
+Graduate work in neuroscience (PUCRS). Trained psychoanalyst — which is mostly
+why I care about how people actually use the systems I build, not just whether
+they run.
+
+Open to senior remote roles (B2B contract, USD/EUR).
