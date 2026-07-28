@@ -8,10 +8,10 @@ tools — independently, from São Paulo.
 * 🏗️ **[Bookalyze](https://bookalyze.it/)** — BI platform for short-term rental
   operators (revenue, occupancy, and reservation analytics, integrated with
   Stays and Hostaway)
-* 🤖 **[verdict-panel](verdict-panel)** — multi-agent adversarial panel that stress-tests
+* 🤖 **[verdict-panel](https://github.com/ricalamino/verdict-panel)** — multi-agent adversarial panel that stress-tests
   product hypotheses and returns a GO / NO-GO / PIVOT verdict
-* 🧠 **[lectio](lectio)** — capture-first personal knowledge base on Postgres + pgvector
-* 📫 [ricardo@alami.no](mailto:ricardo@alami.no) · [alami.no](https://alami.no/) · [CV](https://alami.no/cv)
+* 🧠 **[lectio](https://github.com/ricalamino/lectio)** — capture-first personal knowledge base on Postgres + pgvector
+* 📫 [ricardo@alami.no](mailto:ricardo@alami.no) · [alami.no](https://alami.no/) · [CV](https://alami.no/cv/dev)
 
 ## Stack
 
